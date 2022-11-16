@@ -1,7 +1,14 @@
 ### Hi there, I'm Wendy 👋
 
 I am a development student since 2021 and an academic in the second semester in Systems Analysis and Developmen
-<div align="center">
+<section align="center"><h3>🌐 Contact:</h3> 
+  <a href="wendyhemlock@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="38"             height="25" alt="microsoft-outlook logo"  />
+</section>
+
+---
+ 
+<div align="center"> 
 <h3> Loadout: <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
