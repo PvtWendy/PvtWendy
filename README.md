@@ -1,8 +1,6 @@
 ### Hi there, I'm Wendy 👋
 
-I am a development student since 2021 and an academic in the second semester in Systems Analysis and Development
-
-####
+I am a development student since 2021 and an academic in the second semester in Systems Analysis and Developmen
 <div align="center">
 <h3> Loadout: <br> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
@@ -15,7 +13,7 @@ I am a development student since 2021 and an academic in the second semester in 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" heigth="40" width="52" alt="python logo">
 
 </h3>
-####
+
 <!--
 **PvtWendy/PvtWendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
