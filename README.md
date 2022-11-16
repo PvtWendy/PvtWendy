@@ -10,7 +10,7 @@ I am a development student since 2021 and an academic in the second semester in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" heigth="40" width="52" al="React logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" heigth="40" width="52" alt="bootstrap logo" /> 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" heigth="40" width="52" alt="python logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" heigth="40" width="52" alt="python logo">
 
 </h3>
 
