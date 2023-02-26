@@ -1,11 +1,6 @@
 ### Hi there, I'm Wendy 👋
 
 I am a development student since 2021 and an academic in the second semester in Systems Analysis and Development
-<section align="center"><h3>Contact:</h3> 
-  <a href="mailto:wendyhemlock@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="38"             height="25" alt="microsoft-outlook logo"  />
-</section>
-
 ---
  
 <div align="center"> 
