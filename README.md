@@ -5,7 +5,6 @@ I am a development student since 2021 and an academic in the fourth semester in 
  
 <div align="center"> 
 <h3><br>
-  <a href="https://www.linkedin.com/in/wendy-hemlock-69143a218/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="LinkedIn page" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="VSCode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML logo"  />
